@@ -1,0 +1,2 @@
+[2021-04-24 09:44:16,120] INFO Snapshotting: 0x18bef to /tmp/zookeeper/version-2/snapshot.18bef (org.apache.zookeeper.server.persistence.FileTxnSnapLog)
+[2021-04-24 09:44:16,201] INFO Creating new log file: log.18bf2 (org.apache.zookeeper.server.persistence.FileTxnLog)
